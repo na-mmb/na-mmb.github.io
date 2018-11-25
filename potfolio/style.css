@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+
+html, body{
+	height: 100%;
+	width:  100%;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 100%;
+
+}
+.wrapper{
+        background-color: blue;
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 5;
+
+    }
+
+.h2{
+  text-emphasis-color: white;
+  text-align: center;
+}
+
+.h3{
+  text-emphasis-color: red;
+  text-align: center;
+}
